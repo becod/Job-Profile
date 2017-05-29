@@ -1,0 +1,51 @@
+--------------------------
+-- Requisitos Front-End --
+--------------------------
+
+- HTML5
+- CSS3
+    - .Sass
+    - Bootstrap
+- JavaScript
+    - Jquery.js
+
+--------------------------
+--- Requisitos Back-End --
+--------------------------
+
+- MySQL
+- Php (Php7)
+
+--------------------------
+---- Requisitos Extra ----
+--------------------------
+
+- JSON
+- AJAX
+- WordPress
+    - Core Wordpress theme maker
+- Github
+
+
+--------------------------
+---- Requisitos Design ---
+--------------------------
+
+- Photoshop
+- LightRoom
+- Premier
+- Affter Effects
+
+--------------------------------
+-- En Procesos de Aprendizaje --
+--------------------------------
+
+- React.js
+- Angular4.js
+- mongoDB
+- PostgrestDB
+- Node.js
+- NPM
+- Foundation
+- Laravel
+- TypeScript
