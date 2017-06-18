@@ -8,6 +8,7 @@
     - Bootstrap
 - JavaScript
     - Jquery.js
+    - Handlebars.js
 
 --------------------------
 --- Requisitos Back-End --
