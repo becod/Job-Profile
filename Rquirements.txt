@@ -42,6 +42,8 @@
 --------------------------------
 
 - React.js
+    -Flux
+    -Redux
 - Angular4.js
 - mongoDB
 - PostgrestDB
@@ -50,3 +52,7 @@
 - Foundation
 - Laravel
 - TypeScript
+- CoffeeScript
+- Ember.js
+- EC6
+- Backbones.js
