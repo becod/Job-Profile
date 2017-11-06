@@ -14,6 +14,7 @@
 --- Requisitos Back-End --
 --------------------------
 
+- SQL Server
 - MySQL
 - Php (Php7)
 
@@ -26,6 +27,7 @@
 - WordPress
     - Core Wordpress theme maker
 - Github
+- NPM
 
 
 --------------------------
@@ -49,7 +51,6 @@
 - mongoDB
 - PostgrestDB
 - Node.js
-- NPM
 - Foundation
 - Laravel
 - TypeScript
@@ -57,3 +58,6 @@
 - Ember.js
 - EC6
 - Backbones.js
+- Webpack
+- GraphQL
+
