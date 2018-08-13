@@ -9,6 +9,8 @@
 - JavaScript
     - Jquery.js
     - Handlebars.js
+    - Angular
+    - EMC6
 
 --------------------------
 --- Requisitos Back-End --
@@ -16,7 +18,8 @@
 
 - SQL Server
 - MySQL
-- Php (Php7)
+- Php (php 5.6 ,Php7)
+- PostgrestDB (psql)
 
 --------------------------
 ---- Requisitos Extra ----
@@ -27,8 +30,10 @@
 - WordPress
     - Core Wordpress theme maker
 - Github
+- Git
 - NPM
-
+- Gulp
+- Console
 
 --------------------------
 ---- Requisitos Design ---
@@ -47,17 +52,13 @@
     -Flux
     -Redux
     -React Nactive
-- Angular4.js
 - mongoDB
-- PostgrestDB
 - Node.js
 - Foundation
 - Laravel
 - TypeScript
 - CoffeeScript
 - Ember.js
-- EC6
 - Backbones.js
 - Webpack
 - GraphQL
-
