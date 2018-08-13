@@ -7,4 +7,3 @@ Link of GitHub Profile [View Profile On GitHub](https://github.com/benvalencia)<
 <br>
 # Profile Resume
 ![Job Profile](https://benvalencia.github.io/Job-Profile/BenjaminE.Valencia_CV.png)
-![Job Pssrofile](https://benvalencia.github.io/Job-Profile/Projects/Theend/Theendweb-disgn.png)
