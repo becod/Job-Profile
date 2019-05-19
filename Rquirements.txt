@@ -4,13 +4,15 @@
 
 - HTML5
 - CSS3
-    - .Sass
+    - Sass (.scss | .sass)
     - Bootstrap
 - JavaScript
     - Jquery.js
     - Handlebars.js
-    - Angular
-    - EMC6
+    - Angular7+
+    - AngularCli
+    - TypeScript
+    - React
 
 --------------------------
 --- Requisitos Back-End --
@@ -25,15 +27,13 @@
 ---- Requisitos Extra ----
 --------------------------
 
-- JSON
-- AJAX
 - WordPress
     - Core Wordpress theme maker
-- Github
-- Git
+- Git ( Github | GitLab )
 - NPM
 - Gulp
-- Console
+- Grunt
+- Webpack
 
 --------------------------
 ---- Requisitos Design ---
@@ -48,17 +48,11 @@
 -- En Procesos de Aprendizaje --
 --------------------------------
 
-- React.js
-    -Flux
-    -Redux
-    -React Nactive
+- React Nactive
 - mongoDB
 - Node.js
 - Foundation
 - Laravel
-- TypeScript
-- CoffeeScript
 - Ember.js
 - Backbones.js
-- Webpack
 - GraphQL
